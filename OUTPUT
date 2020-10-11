@@ -1,0 +1,10 @@
+Model
+
+SupportVectorClassifier
+Accuracy : 0.86875
+
+LogisticRegression
+Accuracy : 0.85
+
+DecisionTreeClassifier
+Accuracy : 0.853125
